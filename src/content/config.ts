@@ -1,5 +1,7 @@
 import { z, defineCollection } from "astro:content";
-export const SITE_DESCRIPTION = "This is the description of my Astro blog.";
+
+// Export SITE_DESCRIPTION directly here
+export const SITE_DESCRIPTION = "Hi there. I'm Ivan";
 
 const blogSchema = z.object({
     title: z.string(),
@@ -34,5 +36,3 @@ export const collections = {
     'blog': blogCollection,
     'store': storeCollection,
 };
-
-export { SITE_DESCRIPTION };
