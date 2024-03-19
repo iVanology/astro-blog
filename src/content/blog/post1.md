@@ -1,9 +1,9 @@
 ---
 title: "Testing"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 10 2022"
+pubDate: "2024-03-01"
 heroImage: "/post_img.webp"
-tags: ["tokio"]
+tags: ["教程"]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor

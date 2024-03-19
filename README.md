@@ -66,7 +66,7 @@ pnpm run dev
 │   │   └── global.css
 │   └── config.ts
 ├── public/
-│   ├── favicon.svg
+│   ├── favicon.png
 │   └── profile.webp
 │   └── social_img.webp
 ├── astro.config.mjs
