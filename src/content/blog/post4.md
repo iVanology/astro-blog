@@ -2,7 +2,7 @@
 title: "香港開戶"
 description: "二月底的時候，跟小薯女去了一趟香港辦卡。"
 pubDate: "2024-03-19"
-heroImage: "/post_img.webp"
+heroImage: "/images/hongkongkwai.jpg"
 badge: "生活"
 tags: ["經驗", "教程"]
 ---
