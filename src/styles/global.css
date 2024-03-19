@@ -1,3 +1,19 @@
 .time-line-container>div:last-child .education__time>.education__line {
     display: none;
 }
+
+
+.content-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.image-container {
+    align-self: flex-start; /* Aligns the image to the left */
+    margin-right: 20px; /* Adds some space between the image and the text */
+}
+
+.text-container {
+    flex: 1; /* Takes up the full width available */
+}
+
