@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "../playground"
+		},
+		{
+			"path": "../fuwari"
 		}
 	],
 	"settings": {}
